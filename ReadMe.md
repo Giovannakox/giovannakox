@@ -1,5 +1,5 @@
 
-👩🏻‍💻 <h1>Olá!! Eu sou Giovanna Xavier,</h1> estudante de Análise de Desenvolvimento de Sistemas<br>🎯 Estou a procura de oportunidade profissional
+👩🏻‍💻 Olá!! Eu sou Giovanna Xavier, estudante de Análise de Desenvolvimento de Sistemas<br>🎯 Estou a procura de oportunidade profissional
 
 
 ##
