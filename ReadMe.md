@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Sou estudante de Análise de Desenvolvimento de Sistemas<br>🎯 Estou a procura de oportunidade profissional
+👩🏻‍💻 Oiii!! Eu sou Giovanna, estudante de Análise de Desenvolvimento de Sistemas<br>🎯 Estou a procura de oportunidade profissional
 
 
 # 💻 Tech Stack:
